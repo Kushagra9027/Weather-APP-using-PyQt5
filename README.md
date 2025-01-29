@@ -1,4 +1,6 @@
 Weather App
+
+
 A Python-based weather app built using PyQt5, which fetches weather data from a public weather API and displays the current weather conditions for any city worldwide. The app provides information like:
 
 Current Temperature (in Celsius and Fahrenheit)
